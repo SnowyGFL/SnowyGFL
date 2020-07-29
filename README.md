@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GFL ZE](https://api.snowy.gg/tracker/csgo/216.52.148.47/27015)](https://github.com/SnowyGFL)
 <!--
 **SnowyGFL/SnowyGFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
