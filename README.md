@@ -5,7 +5,7 @@ OR
 You can join the server below :D
 
 
-[![GFL ZE](https://api.snowy.gg/tracker/csgo/216.52.148.47/27015)](https://github.com/SnowyGFL)
+[![GFL ZE](https://api.snowy.gg/tracker/csgo/216.52.148.47/27015)](https://github.com/SnowyGFL/github-readme-servertracker)
 
 <!--
 **SnowyGFL/SnowyGFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
