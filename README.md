@@ -1,6 +1,8 @@
 ### Hi there! 👋
 Welcome to my profile!  
-You can get the links to find me @ https://snowy.gg
+You can get the links to find me @ https://snowy.gg  
+OR 
+You can join the server below :D
 
 
 [![GFL ZE](https://api.snowy.gg/tracker/csgo/216.52.148.47/27015)](https://github.com/SnowyGFL)
