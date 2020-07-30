@@ -1,7 +1,7 @@
 ### Hi there! 👋
 Welcome to my profile!  
 You can get the links to find me @ https://snowy.gg  
-OR 
+OR  
 You can join the server below :D
 
 
